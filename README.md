@@ -8,13 +8,13 @@
 
 ### Gaussian Mixture Multivariate Density 
 ![alt text](https://github.com/claCase97/distributions_sampling/blob/master/figures/levels_curves_data_multivariate.png?raw=True)
-Scatter plot of data points and level curves of true distribution
+<br/>Scatter plot of data points and level curves of true distribution
 
 ![alt text](https://github.com/claCase97/distributions_sampling/blob/master/figures/data_hist_multivatiate.png?raw=True)
-Heatmap of histogram frequencies of sampled points 
+<br/>Heatmap of histogram frequencies of sampled points 
 
 ![alt text](https://github.com/claCase97/distributions_sampling/blob/master/figures/kernel_estimate_multivariate.png?raw=True)
-Joint and marginals kernel density estimate 
+<br/>Joint and marginals kernel density estimate 
 
 ### Uniform Circle 
 ![alt text](https://github.com/claCase97/distributions_sampling/blob/master/figures/unif_circle.png?raw=True)
